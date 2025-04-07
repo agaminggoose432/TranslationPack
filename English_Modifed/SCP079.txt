@@ -1,0 +1,17 @@
+AUXILIARY POWER
+EXPERIENCE
+CAMERA FEED ONLINE
+PRESS <color=yellow>[KEY]</color> TO TOGGLE THE SURVEILLANCE MAP
+Experience gained:
+<color=green>Cooperative work</color>
+<color=#ff7417>Class-D</color><color=red> termination assist</color>
+<color=##2b4725>CI</color><color=red> termination assist</color>
+<color=#3474eb>MTF</color><color=red> termination assist</color>
+<color=#fff454>Scientist</color><color=red> termination assist</color>
+<color=red>SCP termination assist</color>
+LOCKED DOORS: [LOCKED_NUM]<size=25><color=yellow>RIGHT MOUSE</color> BUTTON TO UNLOCK ALL</size>
+<color=green>General interactions</color>
+<color=red>You are being attacked!</color>
+<color=red>Generators have been highlighted on the map</color>
+<color=red>DANGER</color>
+<color=red>SCPs</color>{0}<color=#3474eb>MTF</color> & <color=#6e6e6e>Guards</color>{1}<color=#fff454>Scientists</color>{2}<color=#ff7417>Class-D</color>{3}<color=##2b4725>Chaos Insurgents</color>{4}

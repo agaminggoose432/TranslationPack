@@ -1,0 +1,19 @@
+Playback complete:
+REALITY // FRACTURED
+SITE SECURED
+CHAOS REGINS
+UNCLEAR VICTORY
+Reality has begun to <color=red>fracture</color>. More task forces are underway.
+Breach has been contained. Well done operatives, you done us proud.
+The chaos insurgency now owns this site. It will never be the same again...
+No clear victor is present, all sides are exhausted.
+[summary_d_escaped] Prisoners escaped
+[summary_s_escaped] Research Personnel escaped
+The <color=red>Alpha Warhead's</color> detonation terminated [summary_warhead_kills] entities.
+The <color=red>Alpha Warhead</color> was not detonated during this mission.
+The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] SCPs were contained.
+Playback restarting in [summary_next_round_countdown] seconds.
+The SCPs killed [summary_scpfrags] personnel.
+Nest acquired
+Honk! Honk!

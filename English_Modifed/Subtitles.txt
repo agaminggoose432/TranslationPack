@@ -1,0 +1,31 @@
+MTF unit Epsilon-11: <color=#3474eb>[designation] </color>has entered the facility.<split>All remaining personnel are advised to proceed with standard evacuation protocols until an MTF squad reaches your destination.<split>
+Awaiting re-containment of:<color=#82090d> [count]</color><color=#cf040b> SCP subjects </color>.
+Awaiting re-containment of: <color=#82090d>1 </color><color=#cf040b>SCP subject</color>.
+<color=#f58d05> Substantial threat to safety remains within the facility -- exercise caution.</color>
+successfully <color=#543032>terminated</color>. Termination cause: UNSPECIFIED.
+<color=#543032>terminated</color> by <color=#bf0013>SCP-[scp]</color>.
+successfully <color=#543032>terminated</color> by <color=#00abab>Automatic Security System</color>.
+successfully <color=#543032>terminated</color> by <color=#4d0800>Alpha Warhead</color>.
+<color=#4fdb56>contained</color> successfully by <color=#fff454>Science Personnel<color>.
+<color=#4fdb56>contained</color> successfully by <color=#ff7417>Class-D Personnel</color>.
+<color=#4fdb56>contained</color> successfully by <color=##2b4725>Chaos Insurgency</color>.
+<color=red>SCP-[scp]</color>
+<color=#4fdb56>contained</color> successfully.<color=#3474eb> Containment unit:</color><color=#00285c> UNKNOWN</color>.
+<color=#4fdb56>contained</color> successfully.<color=#3474eb> Containment unit:</color><color=#00285c> [designation]</color>.
+lost in <color=#82ab65>Decontamination Sequence</color>.
+<color=#8de3e3>[current]</color> out of <color=#3d6d80>[max]</color> generators activated.
+<split><color=#00b303>All generators have been successfully engaged.</color>
+Overcharge in <color=#23424a>3... <color=#488796>2... <color=#71cce3>1...</color>
+Facility is back in <color=green>operational</color> mode.
+Attention, all personnel.<split>The <color=#82ab65>Light Containment Zone decontamination process</color> will occur in <color=red>T-15 minutes</color>.<split>All biological substances must be removed in order to avoid <color=#3b0007>destruction</color>.
+Danger, L.C.Z.D.P <color=red>T-[time]</color> minutes.
+Danger, L.C.Z.D.P in <color=red>T-1</color> minute.
+Danger, L.C.Z.D.P in <color=red>T-30</color> seconds.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.
+Light Containment Zone is locked down and ready for <color=#82ab65>decontamination</color>.<split>The removal of organic substances has now begun.
+<color=red>ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED.<split>THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN T-[time] SECONDS.</color>
+DETONATION <color=green>CANCELLED</color>. RESTARTING SYSTEMS.
+<color=red>DETONATION SEQUENCE RESUMED, T-[time] SECONDS.<color>
+terminated by Marshmallow Man.
+<color=#3474eb>Nine-Tailed Fox Backup Unit designated:</color> <color=#00285c>[designation]</color> has entered the facility.<split>
+Security alert. Substantial <color=##2b4725>Chaos Insurgent</color> activity detected.<split><color=#6e6e6e>Security personnel</color>, proceed with standard protocols.
+Attention <color=#6e6e6e>security personnel</color>. <color=##2b4725>Chaos Insurgency</color> spotted at Gate A.
