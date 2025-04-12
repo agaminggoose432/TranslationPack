@@ -6,12 +6,12 @@ successfully <color=#543032>terminated</color>. Termination cause: UNSPECIFIED.
 <color=#543032>terminated</color> by <color=#bf0013>SCP-[scp]</color>.
 successfully <color=#543032>terminated</color> by <color=#00abab>Automatic Security System</color>.
 successfully <color=#543032>terminated</color> by <color=#4d0800>Alpha Warhead</color>.
-<color=#4fdb56>contained</color> successfully by <color=#fff454>Science Personnel<color>.
-<color=#4fdb56>contained</color> successfully by <color=#ff7417>Class-D Personnel</color>.
-<color=#4fdb56>contained</color> successfully by <color=##2b4725>Chaos Insurgency</color>.
+<color=#4fdb56>contained successfully by <color=#fff454>Science Personnel<color>.
+<color=#4fdb56>contained successfully by <color=#ff7417>Class-D Personnel</color>.
+<color=#4fdb56>contained successfully by <color=#2b4725>Chaos Insurgency</color>.
 <color=red>SCP-[scp]</color>
-<color=#4fdb56>contained</color> successfully.<color=#3474eb> Containment unit:</color><color=#00285c> UNKNOWN</color>.
-<color=#4fdb56>contained</color> successfully.<color=#3474eb> Containment unit:</color><color=#00285c> [designation]</color>.
+<color=#4fdb56>contained successfully.<color=#3474eb> Containment unit:</color><color=#00285c> UNKNOWN</color>.
+<color=#4fdb56>contained successfully.<color=#3474eb> Containment unit:</color><color=#00285c> [designation]</color>.
 lost in <color=#82ab65>Decontamination Sequence</color>.
 <color=#8de3e3>[current]</color> out of <color=#3d6d80>[max]</color> generators activated.
 <split><color=#00b303>All generators have been successfully engaged.</color>
@@ -28,4 +28,4 @@ DETONATION <color=green>CANCELLED</color>. RESTARTING SYSTEMS.
 terminated by Marshmallow Man.
 <color=#3474eb>Nine-Tailed Fox Backup Unit designated:</color> <color=#00285c>[designation]</color> has entered the facility.<split>
 Security alert. Substantial <color=##2b4725>Chaos Insurgent</color> activity detected.<split><color=#6e6e6e>Security personnel</color>, proceed with standard protocols.
-Attention <color=#6e6e6e>security personnel</color>. <color=##2b4725>Chaos Insurgency</color> spotted at Gate A.
+Attention <color=#6e6e6e>security personnel</color>. <color=#2b4725>Chaos Insurgency</color> spotted at Gate A.
